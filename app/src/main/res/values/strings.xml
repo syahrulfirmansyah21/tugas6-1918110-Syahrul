@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Tugas6_1918110</string>
+    <string-array name="city_list">
+        <item>Mojokerto</item>
+        <item>Pasuruan</item>
+        <item>Malang</item>
+        <item>Sidoarjo</item>
+        <item>Surabaya</item>
+    </string-array>
+</resources>
